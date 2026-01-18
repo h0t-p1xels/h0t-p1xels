@@ -10,7 +10,6 @@
 
 ## 🧑‍💻 Current tools of choice
 
-<div>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro logo icon" title="Astro" width="40px" height="40px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React logo icon" title="React" width="40px" height="40px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript logo icon" title="TypeScript" width="40px" height="40px" /></code>
@@ -22,6 +21,4 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code logo icon" title="VS Code" width="40px" height="40px" /></code>
 <code><img src="./claude-ai-square-logo.svg" alt="Claude AI logo icon" title="Claude AI" width="40px" height="40px" /><code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflareworkers/cloudflareworkers-original.svg" alt="Cloudflare Workers logo icon" title="Cloudflare Workers" width="40px" height="40px" /></code>
-</div>
-
 </div>
