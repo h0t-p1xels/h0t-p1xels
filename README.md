@@ -14,15 +14,13 @@
 
 ## 🙋🏻‍♀️  A little bit about me...
 
-I'm passionate about designing and building fast, secure and scalable digital products that achieve business goals, build value and convert visitors to customers.
+I design and build digital products that are fast, secure, and built to convert—without compromising user experience. I believe great products balance business goals with genuine user needs and accessibility for everyone.
 
-I am also a big web accessibility and design systems advocate.
-
-My skill set ranges from UI/UX product design through to front-end web development and business design.
+My disciplines span UI/UX design, graphic design, design systems, front-end development, and business design, all of which I get to put into practice while working as one half of Seed Studio alongside Anne-Sofie.
 
 <br />
 
-## 👜 My favorite tools of choice right now are:
+## 👜 Currently working with:
 
 <div>
 <br />
