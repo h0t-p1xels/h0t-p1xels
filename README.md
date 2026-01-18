@@ -1,6 +1,8 @@
+<img width="100%" height="auto" alt="Nikki Bell brand banner" src="https://github.com/user-attachments/assets/80cd2b91-97cd-4086-8783-bbb6c14c08ba" />
+
 # Hi, I'm Nikki. 👋
 
-**Digital Product Designer / Developer @ 🌱 [SEED.](https://weareseed.studio)**
+👩🏻‍💻 **Digital Product Designer / Developer @ 🌱 [SEED.](https://weareseed.studio)**
 
 🌐 **[nikkibell.dev](https://nikkibell.dev)**
 
@@ -14,7 +16,7 @@ I am also a big web accessibility and design systems advocate.
 
 My skill set ranges from UI/UX product design through to front-end web development and business design.
 
-## 🧑‍💻 My favorite tools of choice right now are:
+## 👜 My favorite tools of choice right now are:
 
 <div>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro logo icon" title="Astro" width="36px" height="36px" /></code>
