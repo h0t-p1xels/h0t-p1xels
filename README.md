@@ -1,12 +1,20 @@
 # Hi, I'm Nikki. 👋
 
-**Digital Product Designer / Developer at 🌱 [SEED.](https://weareseed.studio)**
+**Digital Product Designer / Developer @ 🌱 [SEED.](https://weareseed.studio)**
 
 🌐 **[nikkibell.dev](https://nikkibell.dev)**
 
 📧 **[hi@nikkibell.dev](mailto:hi@nikkibell.dev)**
 
-## 🧑‍💻 Current tools of choice
+## 🙋🏻‍♀️  A little bit about me...
+
+I'm passionate about designing and building fast, secure and scalable digital products that achieve business goals, build value and convert visitors to customers.
+
+I am also a big web accessibility and design systems advocate.
+
+My skill set ranges from UI/UX product design through to front-end web development and business design.
+
+## 🧑‍💻 My favorite tools of choice right now are:
 
 <div>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro logo icon" title="Astro" width="36px" height="36px" /></code>
