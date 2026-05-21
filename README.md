@@ -1,4 +1,4 @@
-<img width="100%" height="auto" alt="Nikki Bell Brand Banner" src="preview.png" />
+<img width="100%" height="auto" alt="Nikki Bell Brand Banner" src="banner.png" />
 
 <br />
 
