@@ -1,4 +1,4 @@
-<img width="100%" height="auto" alt="Nikki Bell Brand Banner" src="https://github.com/user-attachments/assets/8efef5f6-9646-428b-9312-d9678c8cfd3d" />
+<img width="100%" height="auto" alt="Nikki Bell Brand Banner" src="preview.png" />
 
 <br />
 
