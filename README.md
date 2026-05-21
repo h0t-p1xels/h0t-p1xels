@@ -8,7 +8,7 @@
 
 🌐 **[nikkipantony.dev](https://nikkipantony.dev)**
 
-📧 **[hi@nikkipantony.dev](mailto:hi@nikkipantony.dev)**
+📧 **[hello@nikkipantony.dev](mailto:hello@nikkipantony.dev)**
 
 <br />
 
