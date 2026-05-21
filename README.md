@@ -4,11 +4,11 @@
 
 # Hi, I'm Nikki. 👋
 
-👩🏻‍💻 **Digital Product Designer / Developer @ 🌱 [SEED.](https://weareseed.studio)**
+👩🏻‍💻 **Digital Product Designer / Developer @ 🌱 [MadeBySEED.Studio](https://madebyseed.studio)**
 
-🌐 **[nikkibell.dev](https://nikkibell.dev)**
+🌐 **[nikkipantony.dev](https://nikkipantony.dev)**
 
-📧 **[hi@nikkibell.dev](mailto:hi@nikkibell.dev)**
+📧 **[hi@nikkipantony.dev](mailto:hi@nikkipantony.dev)**
 
 <br />
 
